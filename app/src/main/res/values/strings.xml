@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Week1Day3TrainExample</string>
+    <string name="hello_world">Hello World!!!</string>
+    <string name="mainMessage">I am a message.</string>
+    <string name="mainMessage2">The birds fly high.</string>
+    <string name="mainMessage3">Dogs are barking.</string>
+    <string name="mainMessage4">What time is it?</string>
+
+</resources>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Week1Day3TrainExample</string>
+    <string name="hello_world">Sawubona Mhlaba!!!</string>
+    <string name="mainMessage">Ngingumyalezo.</string>
+    <string name="mainMessage2">Izinyoni zihamba phezulu.</string>
+    <string name="mainMessage3">Izinja ziyaqhaqhazela.</string>
+    <string name="mainMessage4">Kungasiphi isikhathi?</string>
+</resources>

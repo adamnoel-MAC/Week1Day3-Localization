@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Week1Day3TrainExample</string>
+    <string name="hello_world">你好，世界！！！</string>
+    <string name="mainMessage">我是一个消息。</string>
+    <string name="mainMessage2">鸟飞得很高。</string>
+    <string name="mainMessage3">狗在吠叫。</string>
+    <string name="mainMessage4">现在是几奌？</string>
+</resources>

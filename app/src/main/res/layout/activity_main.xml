@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://schemas.android.com/apk/res/android ">
+
+    <TextView
+        android:id="@+id/hello_message"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:textSize="18sp"
+        android:textColor="@color/colorPrimaryDark"
+        android:text="@string/hello_world" />
+
+    <TextView
+        android:id="@+id/mainMessage"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:textSize="18sp"
+        android:textColor="@color/red"
+        android:text="@string/mainMessage" />
+
+    <TextView
+        android:id="@+id/mainMessage2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:textSize="18sp"
+        android:textColor="@color/blue"
+        android:text="@string/mainMessage2" />
+
+    <TextView
+        android:id="@+id/mainMessage3"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:textSize="18sp"
+        android:textColor="@color/purple"
+        android:text="@string/mainMessage3" />
+
+    <TextView
+        android:id="@+id/mainMessage4"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:textSize="18sp"
+        android:textColor="@color/cyan"
+        android:text="@string/mainMessage4" />
+
+    <TextView
+        android:id="@+id/AnimalName"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:textSize="18sp"
+        android:textColor="@color/red"
+        android:text="" />
+
+    <TextView
+        android:id="@+id/AnimalLegs"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:textSize="18sp"
+        android:textColor="@color/cyan"
+        android:text="" />
+
+    <TextView
+        android:id="@+id/PersonPiercings"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:textSize="18sp"
+        android:textColor="@color/red"
+        android:text="" />
+
+    <TextView
+        android:id="@+id/PersonTats"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:textSize="18sp"
+        android:textColor="@color/cyan"
+        android:text="" />
+</LinearLayout>

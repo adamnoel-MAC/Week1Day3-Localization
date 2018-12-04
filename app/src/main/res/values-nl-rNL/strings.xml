@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Week1Day3TrainExample</string>
+    <string name="hello_world">Hallo Wereld!!!</string>
+    <string name="mainMessage">Ik ben een bericht.</string>
+    <string name="mainMessage2">De vogels vliegen hoog.</string>
+    <string name="mainMessage3">Honden blaffen.</string>
+    <string name="mainMessage4">Hoe laat is het?</string>
+</resources>
